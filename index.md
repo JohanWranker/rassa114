@@ -1,5 +1,20 @@
 ## Råssa 1:14 en fastighet att bygga på
 
+![nya delen](PXL_20210123_081130911.jpg)
+
+### Info
+Areal 
+Byggander
+
+
+### Nya delen
+"Nya delen" är en lokal på x m2, med en fullhöjds port (4.5 m) samt möjlighet till travers.
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/JohanWranker/rassa114/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
