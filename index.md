@@ -10,8 +10,7 @@ Byggander
 ### Nya delen
 "Nya delen" är en lokal på x m2, med en fullhöjds port (4.5 m) samt möjlighet till travers.
 
-
-
+![Panorama vy nya delen](PXL_20210123_103936041.PANO.jpg)
 
 
 
