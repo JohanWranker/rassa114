@@ -1,51 +1,47 @@
 ## Råssa 1:14 en fastighet att bygga på
 
-![nya delen](PXL_20210123_081130911.jpg)
+![nya delen](images/nyadelan_f_entresol_1.jpg)
 
 ### Info
-Areal 
+[Råssa 1:14](https://minkarta.lantmateriet.se/?e=357708.8333333333&n=6395075&z=14&background=2&boundaries=true) ligger i Bollebygds kommun på "flygrakan" 1 km från påfart till Riks40.
+
 Byggander
 
+Address 
 
 ### Nya delen
 "Nya delen" är en lokal på x m2, med en fullhöjds port (4.5 m) samt möjlighet till travers.
 
-![Panorama vy nya delen](PXL_20210123_103936041.PANO.jpg)
+
+Foto av nya delen från entresol
+![Nya delen från entresol](images/nyadelan_f_entresol_2.jpg)
+
+360 panorama 
+![Panorama vy nya delen](images/nya_delen_markhojd.jpg)
+
+[vandring genom lokalen](images/lokalen.mp4)
+### Gamla delen
 
 
+![Gamla delen från entresol](images/gamla_lokalen_entresol.jpg)
+![Panorama vy gamla delen](images/gamla_lokalen_markhojd.jpg)
 
-You can use the [editor on GitHub](https://github.com/JohanWranker/rassa114/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[vandring genom lokalen](images/lokalen.mp4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Utsida
+Stor yta utvändigt finnes för uppställning av fordon
+![Från infart](images/utsida_infart.jpg)
+(fler bilder kommer när utflyttningen slutförts)
 
-### Markdown
+### Kontor
+![Kontor](images/kontor.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Lunchrum
+![Lunchrum](images/lunchrum.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JohanWranker/rassa114/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Omklädning
+![Omklädningsrum](images/omkladningsrum.jpg)
+### Kontakt
+Välkommen att kontakta oss på W-Mek Värmeteknik
+[Johan Wranker](mailto:wmek@wranker.org) 0708-613124
+[Stefan Munthe](callto:0739103731) 0739-103731
