@@ -1,6 +1,6 @@
 ## Råssa 1:14 en fastighet att bygga på
 
-![nya delen](images/nyadelan_f_entresol_1.jpg)
+![nya delen](images/nyadelan_f_entresol_2.jpg)
 
 ### Info
 [Råssa 1:14](https://minkarta.lantmateriet.se/?e=357708.8333333333&n=6395075&z=14&background=2&boundaries=true) ligger i Bollebygds kommun på "flygrakan" 1 km från påfart till Riks40.
@@ -9,22 +9,28 @@ Byggander
 
 Address 
 
-### Nya delen
-"Nya delen" är en lokal på x m2, med en fullhöjds port (4.5 m) samt möjlighet till travers.
+### Nya lokal
+"Nya lokal" är en lokal på 380 m2 i markplan takhöjd , med en fullhöjds port (4.5 m).
+I lokalen finns karftigt byggda entresolplan samt travers som behöver besiktigas.
+230+37
+270
+
+
+taxvärdingsvärde 2020 1.203.000
+
 
 
 Foto av nya delen från entresol
-![Nya delen från entresol](images/nyadelan_f_entresol_2.jpg)
+![Nya delen från entresol](images/nyadelan_f_entresol_1.jpg)
 
 360 panorama 
-![Panorama vy nya delen](images/nya_delen_markhojd.jpg)
+[Panorama vy nya delen](images/nya_delen_markhojd.jpg)
 
 [vandring genom lokalen](images/lokalen.mp4)
 ### Gamla delen
 
-
 ![Gamla delen från entresol](images/gamla_lokalen_entresol.jpg)
-![Panorama vy gamla delen](images/gamla_lokalen_markhojd.jpg)
+[Panorama vy gamla delen](images/gamla_lokalen_markhojd.jpg)
 
 [vandring genom lokalen](images/lokalen.mp4)
 
@@ -44,4 +50,4 @@ Stor yta utvändigt finnes för uppställning av fordon
 ### Kontakt
 Välkommen att kontakta oss på W-Mek Värmeteknik
 [Johan Wranker](mailto:wmek@wranker.org) 0708-613124
-[Stefan Munthe](callto:0739103731) 0739-103731
+[Stefan Munthe](mailto:stefan.munthe@gmail.com) 0739-103731
