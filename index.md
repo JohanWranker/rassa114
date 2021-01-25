@@ -5,15 +5,12 @@
 ### Info
 [Råssa 1:14](https://minkarta.lantmateriet.se/?e=357708.8333333333&n=6395075&z=14&background=2&boundaries=true) ligger i Bollebygds kommun 1 km från påfart till Riksväg 40.
 
-Fastigheten består av två byggnader
+Fastigheten består av en verkstadslokal med yta på 650 m^2 samt tillhörande kontor på 50 m^2 samt ett kallförråd på 300 m^2.
 
-- Verkstadslokal med yta på 650 m2 samt tillhörande kontor på 50 m2
-- Kallförråd på 300 m2
-
-Asfalterad plan framför verkstaden samt hårdgjord yta för t.ex. uppställning av fordon och maskiner total 5 000 m2
+Det finns en asfalterad plan framför verkstaden samt hårdgjord yta för t.ex. uppställning av fordon och maskiner total 5'000 m^2
 
 ### Verkstadslokalen - nya delen
-"Nya delen" är en lokal på 380 m2 i markplan med en minsta takhöjd på 6m och en fullhöjdsport på 4,5m.
+"Nya delen" är en lokal på 380 m^2 i markplan med en minsta takhöjd på 6m och en fullhöjdsport på 4,5m.
 I lokalen finns två områden med kraftigt byggda entresolplan samt travers som behöver besiktigas.
 
 Foto av nya delen från entresol:
@@ -22,8 +19,8 @@ Foto av nya delen från entresol:
 [Klicka för att se panoramavy av nya lokalen](images/nya_delen_markhojd.jpg)
 
 [Klicka för en vandring genom lokalen](images/lokalen.mp4)
-### Gamla lokal
-"Gamla delen" är en lokal på 270 m2 i markplan med en takhöjd på 5m och en fullhöjdsport på 4,5m.
+### Verkstadslokalen - nya delen
+"Gamla delen" är en lokal på 270 m^2 i markplan med en takhöjd på 5m och en fullhöjdsport på 4,5m.
 I lokalen finns ett kraftigt byggt entresolplan.
 
 Vy på gamla delen från entresol:
@@ -36,8 +33,7 @@ Vy på gamla delen från entresol:
 
 Vy från infarten:
 ![Vy från infart](images/utsida_infart.jpg)
-(fler bilder kommer när utflyttningen slutförts på 
-ytan för uppställning av fordon/maskiner)
+(fler bilder kommer när utflyttningen slutförts på ytan för uppställning av fordon/maskiner)
 
 ### Kontor
 Ingång till kontoret:
@@ -49,6 +45,11 @@ Ingång till kontoret:
 ### Omklädning
 Omklädningsrum med dusch och plats för skåp
 ![Omklädningsrum](images/omkladningsrum.jpg)
+
+### Kallförråd - Boa
+Ett 300m^2 kallförråd med el.
+(bilder kommer när lokalen tömts)
+
 ### Kontakt
 Välkommen att kontakta oss på W-Mek Värmeteknik\
 [Johan Wranker](mailto:wmek@wranker.org) 0708-613124\
