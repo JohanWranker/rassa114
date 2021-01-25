@@ -5,12 +5,12 @@
 ### Info
 [Råssa 1:14](https://minkarta.lantmateriet.se/?e=357708.8333333333&n=6395075&z=14&background=2&boundaries=true) ligger i Bollebygds kommun 1 km från påfart till Riksväg 40.
 
-Fastigheten består av en verkstadslokal med yta på 650 m^2 samt tillhörande kontor på 50 m^2 samt ett kallförråd på 300 m^2.
+Fastigheten består av en verkstadslokal med yta på 650 m<sup>2</sup> samt tillhörande kontor på 50 m<sup>2</sup> samt ett kallförråd på 300 m<sup>2</sup>.
 
-Det finns en asfalterad plan framför verkstaden samt hårdgjord yta för t.ex. uppställning av fordon och maskiner total 5'000 m^2
+Det finns en asfalterad plan framför verkstaden samt hårdgjord yta för t.ex. uppställning av fordon och maskiner total 5'000 m<sup>2</sup>
 
 ### Verkstadslokalen - nya delen
-"Nya delen" är en lokal på 380 m^2 i markplan med en minsta takhöjd på 6m och en fullhöjdsport på 4,5m.
+Nya delen är en lokal på 380 m<sup>2</sup> i markplan med en minsta takhöjd på 6m och en fullhöjdsport på 4,5m.
 I lokalen finns två områden med kraftigt byggda entresolplan samt travers som behöver besiktigas.
 
 Foto av nya delen från entresol:
@@ -20,8 +20,9 @@ Foto av nya delen från entresol:
 
 [Klicka för en vandring genom lokalen](images/lokalen.mp4)
 ### Verkstadslokalen - nya delen
-"Gamla delen" är en lokal på 270 m^2 i markplan med en takhöjd på 5m och en fullhöjdsport på 4,5m.
+Gamla delen är en lokal på 270 m<sup>2</sup> i markplan med en takhöjd på 5m och en fullhöjdsport på 4,5m.
 I lokalen finns ett kraftigt byggt entresolplan.
+I anslutning finns lunchrum/omklädningsrum samt kontor 
 
 Vy på gamla delen från entresol:
 ![Gamla delen från entresol](images/gamla_lokalen_entresol.jpg)
@@ -47,7 +48,7 @@ Omklädningsrum med dusch och plats för skåp
 ![Omklädningsrum](images/omkladningsrum.jpg)
 
 ### Kallförråd - Boa
-Ett 300m^2 kallförråd med el.
+Ett 300m<sup>2</sup> kallförråd med el.
 (bilder kommer när lokalen tömts)
 
 ### Kontakt
