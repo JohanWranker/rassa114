@@ -3,27 +3,22 @@
 ![nya delen](images/nyadelan_f_entresol_2.jpg)
 
 ### Info
-[Råssa 1:14](https://minkarta.lantmateriet.se/?e=357708.8333333333&n=6395075&z=14&background=2&boundaries=true) ligger i Bollebygds kommun på "flygrakan" 1 km från påfart till Riks40.
+[Råssa 1:14](https://minkarta.lantmateriet.se/?e=357708.8333333333&n=6395075&z=14&background=2&boundaries=true) ligger i Bollebygds kommun 1 km från påfart till Riksväg 40.
 
-Byggander
+Fastigheten består av två byggnader
 
-Address 
+- Verkstadslokal med yta (650 m2) och tillhörande kontor på 50 m2 (Råssa 11B)   
+- Kallförråd (300 m2) (Råssa 11A)
+- Asfalterad plan framför verkstagen samt hårdgjord yta för t.ex. uppställning av fordon och maskiner 
 
 ### Nya lokal
-"Nya lokal" är en lokal på 380 m2 i markplan takhöjd , med en fullhöjds port (4.5 m).
-I lokalen finns karftigt byggda entresolplan samt travers som behöver besiktigas.
-230+37
-270
-
-
-taxvärdingsvärde 2020 1.203.000
-
-
+"Nya lokal" är en lokal på 380 m2 i markplan och 6m takhöjd, med en fullhöjdsport på 4,5m.
+I lokalen finns kraftigt byggda entresolplan samt travers som behöver besiktigas.
 
 Foto av nya delen från entresol
 ![Nya delen från entresol](images/nyadelan_f_entresol_1.jpg)
 
-360 panorama 
+60 panorama 
 [Panorama vy nya delen](images/nya_delen_markhojd.jpg)
 
 [vandring genom lokalen](images/lokalen.mp4)
@@ -48,6 +43,6 @@ Stor yta utvändigt finnes för uppställning av fordon
 ### Omklädning
 ![Omklädningsrum](images/omkladningsrum.jpg)
 ### Kontakt
-Välkommen att kontakta oss på W-Mek Värmeteknik
-[Johan Wranker](mailto:wmek@wranker.org) 0708-613124
+Välkommen att kontakta oss på W-Mek Värmeteknik\
+[Johan Wranker](mailto:wmek@wranker.org) 0708-613124\
 [Stefan Munthe](mailto:stefan.munthe@gmail.com) 0739-103731
