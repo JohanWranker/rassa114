@@ -7,40 +7,45 @@
 
 Fastigheten består av två byggnader
 
-- Verkstadslokal med yta (650 m2) och tillhörande kontor på 50 m2 (Råssa 11B)   
-- Kallförråd (300 m2) (Råssa 11A)
-- Asfalterad plan framför verkstagen samt hårdgjord yta för t.ex. uppställning av fordon och maskiner 
+- Verkstadslokal med yta på 650 m2 samt tillhörande kontor på 50 m2
+- Kallförråd på 300 m2
 
-### Nya lokal
-"Nya lokal" är en lokal på 380 m2 i markplan och 6m takhöjd, med en fullhöjdsport på 4,5m.
+Asfalterad plan framför verkstaden samt hårdgjord yta för t.ex. uppställning av fordon och maskiner total 5000 m2
+
+### Verkstadslokalen - nya delen
+"Nya delen" är en lokal på 380 m2 i markplan med en takhöjd på 6m och en fullhöjdsport på 4,5m.
 I lokalen finns kraftigt byggda entresolplan samt travers som behöver besiktigas.
 
-Foto av nya delen från entresol
+Foto av nya delen från entresol:
 ![Nya delen från entresol](images/nyadelan_f_entresol_1.jpg)
 
-60 panorama 
-[Panorama vy nya delen](images/nya_delen_markhojd.jpg)
+[Klicka för att se panoramavy av nya lokalen](images/nya_delen_markhojd.jpg)
 
-[vandring genom lokalen](images/lokalen.mp4)
-### Gamla delen
+[Klicka för en vandring genom lokalen](images/lokalen.mp4)
+### Gamla lokal
 
+Vy pg gamla delen från entresol:
 ![Gamla delen från entresol](images/gamla_lokalen_entresol.jpg)
-[Panorama vy gamla delen](images/gamla_lokalen_markhojd.jpg)
+[Klicka för att se panoramavy av gamla lokalen](images/gamla_lokalen_markhojd.jpg)
 
-[vandring genom lokalen](images/lokalen.mp4)
+[Klicka för en vandring genom lokalen](images/lokalen.mp4)
 
-### Utsida
-Stor yta utvändigt finnes för uppställning av fordon
-![Från infart](images/utsida_infart.jpg)
-(fler bilder kommer när utflyttningen slutförts)
+### Utsidan
+
+Vy från infarten:
+![Vy från infart](images/utsida_infart.jpg)
+(fler bilder kommer när utflyttningen slutförts b.la. på 
+yta för uppställning av fordon/maskiner)
 
 ### Kontor
+Ingång till kontoret:
 ![Kontor](images/kontor.jpg)
 
 ### Lunchrum
 ![Lunchrum](images/lunchrum.jpg)
 
 ### Omklädning
+Omklädningsrum med dusch och plats för skåp
 ![Omklädningsrum](images/omkladningsrum.jpg)
 ### Kontakt
 Välkommen att kontakta oss på W-Mek Värmeteknik\
